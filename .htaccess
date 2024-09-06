@@ -1,0 +1,14 @@
+RewriteEngine On
+RewriteRule ^portfolio$ index.php 
+
+
+RewriteRule ^personal$ admin.php 
+
+RewriteRule ^projects$ view_projects.php 
+
+RewriteRule ^login$ login.php 
+
+RewriteRule ^logout$ logout.php 
+
+
+
